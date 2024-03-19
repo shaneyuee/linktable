@@ -1,0 +1,2 @@
+# linktable
+QQ's widely used data structure in shared memory, used to store key-value data where key is an integer value and all keys are stored collectedly such as QQ's user profile.
